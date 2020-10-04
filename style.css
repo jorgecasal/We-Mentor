@@ -4,8 +4,10 @@
 }
 
 h1{
+    display: block;
     font-size: 80px;
     font-weight: 500;
     color: aquamarine;
     background-color: blue;
+    align-content: center;
 }
