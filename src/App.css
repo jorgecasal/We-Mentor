@@ -1,0 +1,18 @@
+body {
+  /* overflow: hidden; */
+}
+
+.codex-editor--narrow .codex-editor__redactor {
+  margin-right: 20px !important;
+}
+
+.ce-paragraph {
+  text-align: left;
+  margin-left: 20px;
+  font-size: 14px;
+}
+
+.cdx-list__item {
+  text-align: left;
+  font-size: 14px;
+}
